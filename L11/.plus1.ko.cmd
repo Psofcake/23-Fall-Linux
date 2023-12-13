@@ -1,0 +1,1 @@
+cmd_/home/psofcake/my_project/L11/plus1.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/psofcake/my_project/L11/plus1.ko /home/psofcake/my_project/L11/plus1.o /home/psofcake/my_project/L11/plus1.mod.o;  true

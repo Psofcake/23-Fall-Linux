@@ -1,0 +1,1 @@
+cmd_/home/psofcake/my_project/L11/Module.symvers := sed 's/\.ko$$/\.o/' /home/psofcake/my_project/L11/modules.order | scripts/mod/modpost -m -a -E -o /home/psofcake/my_project/L11/Module.symvers -e -i Module.symvers   -T -
